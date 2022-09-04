@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+
+PD_subsample/data
+PD_subsample/outputs
+PD_subsample/.ipynb_checkpoints
+PD_subsample/multiple-subsampling-persistence.ipynb
+
+# Mac stuff
+.DS_Store
