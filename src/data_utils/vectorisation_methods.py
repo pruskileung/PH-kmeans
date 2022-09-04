@@ -1,6 +1,6 @@
 # import packages
 import numpy as np
-from data_utils.pd_pm_methods import clean_pds
+from pd_pm_methods import clean_pds
 from gtda.diagrams import PersistenceLandscape
 from gtda.diagrams import BettiCurve
 from gtda.diagrams import PersistenceImage
