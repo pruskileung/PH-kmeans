@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-.ipynb_checkpoints
-
+# PD_subsample files
 PD_subsample/data
 PD_subsample/outputs
 PD_subsample/.ipynb_checkpoints
 PD_subsample/multiple-subsampling-persistence.ipynb
 
-# Mac stuff
-.DS_Store
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -145,4 +140,3 @@ dmypy.json
 # Other
 figs/
 data/
->>>>>>> 7ee01555e73e11ca8863e32808f4ebc5ac60ea53
