@@ -1,6 +1,3 @@
-# author: Yueqi Cao
-# contact: y.cao21@imperial.ac.uk
-
 import numpy as np
 import gudhi as gd
 import matplotlib.pyplot as plt
