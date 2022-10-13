@@ -44,7 +44,7 @@ def get_pd(point_cloud):
     return [diag_0, diag_1, diag_2]
 
 
-# Persistence Measure Methods - Adapted from https://github.com/YueqiCao/PD-subsample
+# Persistence Measure Methods - Adapted from https://anonymous.4open.science/r/PD-subsample-2321/
 
 # initialise parameters
 nb_units = 30
